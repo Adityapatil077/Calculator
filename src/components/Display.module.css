@@ -1,0 +1,20 @@
+.display
+{
+    width: 320px;
+    border: none;
+    padding: 24px;
+    margin: 10px;
+    background: transparent;
+    font-size: 40px;
+    text-align: right;
+    box-shadow: 0px 3px 15px rgba(84, 84, 84, 0.2);
+}
+input::placeholder{
+    color: #ffff;
+}
+
+/*
+
+
+
+*/
